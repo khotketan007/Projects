@@ -1,0 +1,38 @@
+html {
+    margin: 0;
+}
+
+/* Span Element */
+span {
+    display: block;
+}
+
+/* Div Elements */
+.canvas {
+    margin: 100px auto 100px;
+    width: 80%;
+    text-align: center;
+}
+
+/* Buttons styling */
+.button {
+    width: 100px;
+    height: 50px;
+    border: solid black 2px;
+    border-radius: 5px;
+    display: inline-block;
+}
+
+/* Styling in ID */
+#grey {
+    background-color: grey;
+}
+#brown {
+    background-color: brown;
+}
+#blue {
+    background-color: blue;
+}
+#yellow{
+    background-color: yellow;
+}
